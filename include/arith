@@ -1,0 +1,37 @@
+#if !defined(ARITH)
+#define ARITH
+
+/**
+ * @param a Primer valor int
+ * @param b Segundo valor int
+ * @param return Devuelve el resultado de la suma (a + b)
+ */
+
+int add(int a, int b)
+
+/**
+ * @param a Primer valor int
+ * @param b Segundo valor int
+ * @param return Devuelve el resultado de la resta (a - b)
+ */
+
+int sub(int a, int b)
+
+/**
+ * @param a Primer valor int
+ * @param b Segundo valor int
+ * @param return Devuelve el resultado de la multiplicacion (a * b)
+ */
+
+int mul(int a, int b)
+
+/**
+ * @param a Primer valor int
+ * @param b Segundo valor int
+ * @param return Devuelve el resultado de la division (a / b)
+ */
+
+int div(int a, int b)
+
+#endif
+
