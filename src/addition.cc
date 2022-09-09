@@ -1,3 +1,4 @@
+#include "..\include\arith"
 
 int add(int a, int b){
     int add;

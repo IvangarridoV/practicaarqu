@@ -1,3 +1,4 @@
+#include "..\include\arith"
 
 int mul(int a, int b){
     int mul;

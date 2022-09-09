@@ -1,4 +1,4 @@
-#if !defined(ARITH)
+#if !defined (ARITH)
 #define ARITH
 
 /**

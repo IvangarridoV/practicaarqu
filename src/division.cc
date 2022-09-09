@@ -1,4 +1,6 @@
-int div(int a, int b){
+#include "..\include\arith"
+
+int divi(int a, int b){
     int div;
     div = a / b;
     return div;

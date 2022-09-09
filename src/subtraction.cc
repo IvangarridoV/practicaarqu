@@ -1,6 +1,7 @@
+#include "..\include\arith"
 
 int sub(int a, int b){
     int sub;
-    sub = a - b;
+    sub = (a-b);
     return sub;
 }
